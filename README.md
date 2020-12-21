@@ -1,3 +1,3 @@
 # practice
 
-my solutions for competitive programming problems on leetcode / codeforces / hackerrank
+my workbench  where i experiment with ideas and tools.
